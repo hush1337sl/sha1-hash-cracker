@@ -1,7 +1,3 @@
-Du könntest die Bibliothek beispielsweise `sha1-hash-cracker` nennen. Dieser Name ist klar und beschreibt genau, was das Programm macht. Hier ist eine vollständige README-Datei, die du in deinem GitHub-Repository verwenden kannst:
-
----
-
 # SHA1 Hash Cracker
 
 This Python script attempts to brute-force a given SHA1 hash by generating all possible strings up to a specified maximum length using a defined character set. It prints each attempt and the corresponding hash until it finds a match or exhausts all possibilities.
