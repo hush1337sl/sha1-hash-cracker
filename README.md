@@ -18,7 +18,7 @@ This Python script attempts to brute-force a given SHA1 hash by generating all p
 ### Example
 
 ```bash
-python sha1_cracker.py
+python sha1 bruteforcer.py
 ```
 
 You will be prompted to enter the SHA1 hash you want to brute-force:
